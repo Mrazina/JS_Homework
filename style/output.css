@@ -1,0 +1,16 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+li {
+  font-size: 24px;
+  border: 2px solid #333;
+  margin: 2px;
+  padding-left: 10px; }
+
+span {
+  color: red;
+  font-size: 30px; }
+
+/*# sourceMappingURL=output.css.map */
